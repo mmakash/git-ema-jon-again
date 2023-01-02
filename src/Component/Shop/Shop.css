@@ -6,4 +6,8 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 45px;
+    margin-top: 30px;
+}
+.cart-container{
+    background-color: #FF99004D;
 }
